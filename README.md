@@ -1,5 +1,5 @@
 ### I'm Andre Junior👋
-### Student, Developer (DEV), I work as a freelancer and digital entrepreneur on the Internet since 2007. Expert in Technology, Agriculture, Economics and Digital Commerce, in constant updating.👋
+### Student, developer (DEV), I work as a freelancer and digital entrepreneur on the Internet since 2007. Expert in Technology, Agriculture, Economics and Digital Commerce, in constant updating.👋
 
 <div align="center">
   <a href="https://github.com/AJSS9BRASIL">
